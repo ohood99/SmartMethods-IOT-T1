@@ -3,5 +3,6 @@
 
 
 # Task1 
-1-Web page Speech to text support arabic language
-2-Writing an wisdom ESP32 operating algorithm
+## 1-Web page Speech to text support arabic language
+
+## 2-Writing an wisdom ESP32 operating algorithm
