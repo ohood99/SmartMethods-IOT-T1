@@ -1,0 +1,16 @@
+for operating algorithm Wasdom ESP32:
+Download Arduino IDE.
+Operating Arduino IDE.
+Click on file then choose preferences.
+put the package link "https://dl.espressif.com/dl/package_esp32_index.json" in the esp32,and press OK.
+Click on tools, and choose "Arduino Uno"panel, then choose the panel manager.
+Will appears screen in the ESP32 dialog box and then press the installation.
+Click on tools, and choose Broard"Arduino Uno",then Broards manager.
+Click on tools, then"Arduino Uno"panel, and choose Arduino ESP32.
+connect ESP32 to USB wire on computer.
+Click "Arduino Uno"panel, then Arduino ESP32,and choose WEMOS D1 MINI ESP32.
+Then click on tools, choose port COM3,then COM3.
+For Operating lighting ESP:
+Click on file, and choose examples,then Basics,then choose Blink.
+Then  a page appears press an arrow sign in the address bar on the left side of the upload . 
+The blue light begins to point quickly or at medium speed.
